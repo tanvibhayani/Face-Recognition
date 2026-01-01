@@ -14,8 +14,9 @@ This project helped me gain practical experience in Computer Vision, Image Proce
 Below is a demo video showcasing real-time face detection and recognition:
 
 
-[https://github.com/tanvibhayani/Face-Recognition/edit/main/face.mp4](https://github.com/tanvibhayani/Face-Recognition/blob/main/face.mp4
-)
+
+Uploading face.mp4…
+
 
 📌 Note: Make sure the video file face.mp4 is uploaded in the root folder of the GitHub repository.
 
