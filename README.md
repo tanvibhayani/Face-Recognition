@@ -71,16 +71,8 @@ pip install face-recognition
 pip install numpy
 
 Step 3: Run the Application
-python main.py
+python image.py
 
-📂 Project Structure
-face-recognition-system/
-│
-├── images/               # Dataset of known faces
-├── face.mp4              # Demo video
-├── main.py               # Main Python script
-├── requirements.txt      # Required libraries
-└── README.md             # Project documentation
 
 📌 Use Cases
 
