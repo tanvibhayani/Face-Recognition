@@ -13,11 +13,8 @@ This project helped me gain practical experience in Computer Vision, Image Proce
 
 Below is a demo video showcasing real-time face detection and recognition:
 
-<video width="700" controls>
-  <source src="face.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
+https://github.com/tanvibhayani/Face-Recognition/edit/main/face.mp4
 
 📌 Note: Make sure the video file face.mp4 is uploaded in the root folder of the GitHub repository.
 
