@@ -11,14 +11,11 @@ This project helped me gain practical experience in Computer Vision, Image Proce
 
 🎥 Project Demo Video
 
+
+https://github.com/user-attachments/assets/456d13fd-abbd-4d44-99a7-c2e98b0a126b
+
+
 Below is a demo video showcasing real-time face detection and recognition:
-
-
-
-Uploading face.mp4…
-
-
-📌 Note: Make sure the video file face.mp4 is uploaded in the root folder of the GitHub repository.
 
 🎯 Objectives
 
